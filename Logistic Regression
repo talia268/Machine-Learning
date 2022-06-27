@@ -1,0 +1,12 @@
+3. Logistic regression
+A supervised machine learning algorithm in Python that is used in estimating discrete values in binary, e.g: 0/1, yes/no, true/false. This is based on a set of independent variables. This algorithm is used to predict the probability of an event’s occurrence by fitting that data into a logistic curve or logistic function. This is why it is also called logistic regression. 
+
+Logistic regression, also called as Sigmoid function, takes in any real valued number and then maps it to a value that falls between 0 and 1. This algorithm finds its use in finding spam emails, website or ad click predictions and customer churn.
+
+Sigmoid Function is defined as, 
+
+f(x) = L / 1+e^(-x)
+
+x: domain of real numbers
+
+L: curve’s max value
