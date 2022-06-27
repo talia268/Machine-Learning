@@ -1,0 +1,4 @@
+2. Decision Trees
+A decision tree is built by repeatedly asking questions to the partition data. The aim of the decision tree algorithm is to increase the predictiveness at each level of partitioning so that the model is always updated with information about the dataset. 
+
+Even though it is a Supervised Machine Learning algorithm, it is used mainly for classification rather than regression. In a nutshell, the model takes a particular instance, traverses the decision tree by comparing important features with a conditional statement. As it descends to the left child branch or right child branch of the tree, depending on the result, the features that are more important are closer to the root. The good part about this machine learning algorithm is that it works on both continuous dependent and categorical variables.
