@@ -1,0 +1,4 @@
+5. Support Vector Machines (SVM)
+SVM is a supervised classification is one of the most important Machines Learning algorithms in Python, that plots a line that divides different categories of your data. In this ML algorithm, we calculate the vector to optimize the line. This is to ensure that the closest point in each group lies farthest from each other. While you will almost always find this to be a linear vector, it can be other than that.
+In this Python Machine Learning tutorial, we plot each data item as a point in an n-dimensional space. We have n features and each feature has the value of a certain coordinate.
+First, let’s plot a dataset.
