@@ -1,0 +1,14 @@
+1. Linear regression
+It is one of the most popular Supervised Machine Learning algorithms in Python that maintains an observation of continuous features and based on it, predicts an outcome. It establishes a relationship between dependent and independent variables by fitting a best line. This best fit line is represented by a linear equation Y=a*X+b, commonly called the regression line. 
+
+In this equation,
+
+Y – Dependent variable
+
+a- Slope
+
+X – Independent variable
+
+b- Intercept
+
+The regression line is the line that fits best in the equation to supply a relationship between the dependent and independent variables. When it runs on a single variable or feature, we call it simple linear regression and when it runs on different variables, we call it multiple linear regression. This is often used to estimate the cost of houses, total sales or total number of calls based on continuous variables.
